@@ -77,7 +77,7 @@ months = {
 import random
 result = random.sample(writers, 5)
 print(result)
-
+print()
 
 
 data = '01.01.1876'
