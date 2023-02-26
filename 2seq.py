@@ -1,4 +1,4 @@
-str_number = input ('Введите числа: ')
+str_number = input ('Введите числа через запятую: ')
 numbers = str_number.split(',')
 results = []
 for number in numbers:
